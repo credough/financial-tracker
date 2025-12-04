@@ -1,9 +1,8 @@
 # Budget Tracker
 
-A simple SQL project designed to help users track their daily expenses, categorize spending, and compare actual spending against monthly budgets.
+A simple SQL project designed to help users track their daily expenses, categorize spending, and compare actual spending to monthly budgets.
 
-This project focuses on mastering SQL fundamentals using SQLite — including table creation, inserting data, SELECT queries, filtering, JOINs, and aggregation.
-Perfect for anyone practicing SQL for data analysis.
+This project focuses on mastering SQL fundamentals using SQLite including table creation, inserting data, SELECT queries, filtering, JOINs, and aggregation.
 
 ## Project Files
 - `budget-track.db` : SQLite database with tables and sample data
